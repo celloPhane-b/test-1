@@ -1,7 +1,11 @@
 # test-1
 
-testing github
+testing **github**
 
-.. 
+- make repositories
 
-..
+- connect origin
+
+- push
+
+- fetch & pull
