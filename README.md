@@ -12,4 +12,4 @@ testing **github**
 
 **insert repository images** 
 
-![new image](./다운로드/chris heria.png)
+![new image](./eggs.png)
